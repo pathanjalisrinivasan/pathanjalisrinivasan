@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Senior Consultant and Product Strategist passionate about creating user-focused solutions and driving impactful product strategies. My expertise lies in transforming complex business requirements into intuitive products that enhance customer experiences.
+I’m Product Strategist passionate about creating user-focused solutions and driving impactful product strategies. My expertise lies in transforming complex business requirements into intuitive products that enhance customer experiences.
 
 
 # 💻 Tech Stack:
